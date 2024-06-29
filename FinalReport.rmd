@@ -60,6 +60,7 @@ table1 <- xtabs(~infected + treatment, data=druggies)
 rowPerc(table1)
 colPerc(table1)
 ```
+Those with the drug had a less chance of being affected. 
 
 ## Inferential Results
 
